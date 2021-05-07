@@ -1,0 +1,5 @@
+average_latency: 25.053000
+total number of packet:                  2500
+total eject time sum:              62371640
+total inject time sum:              61745315
+total simulation time: 54445.000000

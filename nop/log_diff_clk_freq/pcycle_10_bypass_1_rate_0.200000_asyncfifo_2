@@ -1,0 +1,12 @@
+the clock cycle of CDCLK is always 10
+the clock cycle of CPCLK is 10
+bypass_ctrl is 1(0:disable bypass channel,1:enable bypass channel)
+injecting rate is 0.200000
+the depth_log of the async_fifo in portcontroller is 2
+
+
+lat_av:      281	 lat_max:   4583	 lat_min:    9	
+lat_av_0:    203	 lat_max_0: 4551	 lat_min_0:  9	
+lat_av_1:    408	 lat_max_1: 4583	 lat_min_1:  35	
+lat_av_2:    497	 lat_max_2: 4182	 lat_min_2:  48	
+total 13800 packets; 9246 inside pakets; 3058 out1 packets; 1496 out2 packets

@@ -1,0 +1,4 @@
+average_latency: 103.172600
+total number of packet:                  2500
+total eject time sum:              27172030
+total inject time sum:              24592715
