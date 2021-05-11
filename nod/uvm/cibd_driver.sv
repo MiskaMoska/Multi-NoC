@@ -65,7 +65,7 @@ class cibd_driver extends uvm_driver #(cibd_transaction);
             if(drv_if.ready)
             begin
                 temp_data = data_q.pop_front();
-                drv_if.data <= temp_data; //no clocking assignment
+                drv_if.data <= temp_data;
                 if(temp_data[129:128] == 2'b10) //is tail flit
                     break;
             end
