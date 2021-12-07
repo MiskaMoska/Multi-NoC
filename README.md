@@ -1,4 +1,4 @@
-# Network-on-Package
+# Multi-NoC
 
-RTL and UVM test code of  a Network-on-Package(NoP) 
+RTL and UVM test code of a Multi-NoC system 
 
